@@ -14,7 +14,7 @@ _G.Key = "ALKOKESADF"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AutumnHub/script/main/main.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AutumnHub/script-awtd/main/77_MCUSDB4RON.lua"))()
 end
 
 function CorrectKeyNotification()
